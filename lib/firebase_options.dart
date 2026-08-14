@@ -62,11 +62,11 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCg5t9-zOuZP1d9dPipzrvCep2Pw3B_UuM',
-    appId: '1:1098343742182:ios:662dc74dada1d9c7f55927',
-    messagingSenderId: '1098343742182',
-    projectId: 'akhbar-app-push-notification',
-    storageBucket: 'akhbar-app-push-notification.appspot.com',
+    apiKey: 'AIzaSyDH6UE7TM-8CN0c4Alrfh7jxlycZ-VPNfM',
+    appId: '1:547438027202:ios:428f47a993008bd78e365b',
+    messagingSenderId: '547438027202',
+    projectId: 'akhbar-mashriq',
+    storageBucket: 'akhbar-mashriq.firebasestorage.app',
     iosBundleId: 'com.akhbarmashriq.akhbar',
   );
 
