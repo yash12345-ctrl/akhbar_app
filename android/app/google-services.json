@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547438027202",
+    "project_id": "akhbar-mashriq",
+    "storage_bucket": "akhbar-mashriq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547438027202:android:62d654a2741cd4cd8e365b",
+        "android_client_info": {
+          "package_name": "com.akhbarmashriq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPSIBIO6ujntFwLydYQvQOJ7Ia7t4SNGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
