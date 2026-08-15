@@ -38,6 +38,9 @@
 		   android:resource="@drawable/notification_icon" />
 		<meta-data android:name="com.google.firebase.messaging.default_notification_color"
 		   android:resource="@color/color_primary" />
+		<meta-data
+		   android:name="com.google.firebase.messaging.default_notification_channel_id"
+		   android:value="article_event_channel" />
 
 		<meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
 		<meta-data android:name="com.facebook.sdk.ClientToken" android:value="@string/facebook_client_token"/>
